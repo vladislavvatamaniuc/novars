@@ -12,7 +12,7 @@ body {
 /* HERO */
 .hero {
   height: 100vh;
-  background: url('assets/background.jpg') center/cover no-repeat;
+  background: url('background.png') center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
